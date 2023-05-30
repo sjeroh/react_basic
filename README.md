@@ -47,3 +47,10 @@ npm start
 
 # vscode 추가 프로그램 prettier를 설치해준다.
 ![image](https://github.com/sjeroh/react_basic/assets/36749506/9a22c571-1405-48cb-a0d6-6d41d74764b1)
+
+# setting 설정
+![image](https://github.com/sjeroh/react_basic/assets/36749506/586ab799-fe84-4046-acbe-3c1823194e0d)
+![image](https://github.com/sjeroh/react_basic/assets/36749506/3bed3e83-3736-4fe9-bc8c-4e517945ae03)
+
+
+
