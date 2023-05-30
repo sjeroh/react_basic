@@ -35,3 +35,6 @@ npm start
      npx create-react-app 폴더명
      cd 폴더명
      npm start
+
+
+![image](https://github.com/sjeroh/react_basic/assets/36749506/687d20f1-6b67-419a-9d3d-f4b7894c936f)
