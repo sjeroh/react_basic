@@ -18,5 +18,11 @@
   
 # 함수만들기
   ![image](https://github.com/sjeroh/react_basic/assets/36749506/b2ba3eb0-dce2-41e5-b9f7-ae35ae7f38dd)
+  
+# 화살표함수
 ![image](https://github.com/sjeroh/react_basic/assets/36749506/4c1985d4-0308-442a-b27d-a1e154813a41)
-화살표함수
+
+
+# 함수를 밖으로 뺴기
+![image](https://github.com/sjeroh/react_basic/assets/36749506/bdb5fe13-14c4-411c-a617-6f2609ff1706)
+
