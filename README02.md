@@ -15,3 +15,8 @@
 # 해결방법 부모 태그로 싸줘야한다. (<div>)또는 Fragment로 싸줘야한다.
 ![image](https://github.com/sjeroh/react_basic/assets/36749506/e4e574f9-3d45-4d5d-b93d-84fcb3617d9b)
 플래그먼트로 처리해도 된다. 꼭 div를 만들 필요는 없다.
+  
+# 함수만들기
+  ![image](https://github.com/sjeroh/react_basic/assets/36749506/b2ba3eb0-dce2-41e5-b9f7-ae35ae7f38dd)
+![image](https://github.com/sjeroh/react_basic/assets/36749506/4c1985d4-0308-442a-b27d-a1e154813a41)
+화살표함수
