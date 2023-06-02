@@ -34,3 +34,11 @@
 # 함수 밖으로 빼기
 ![image](https://github.com/sjeroh/react_basic/assets/36749506/6527685c-b47e-4b70-bd97-56efdce2153f)
 ![image](https://github.com/sjeroh/react_basic/assets/36749506/a5687587-d9f9-4233-95b2-1dcf057e70bb)
+
+  
+# 콘솔에는 숫자가 바뀌어지는데 화면에는 바뀌지 않는다.
+  ![image](https://github.com/sjeroh/react_basic/assets/36749506/64852695-0b03-4fce-8c97-dd0a118c723b)
+
+ - react에서는 변수가 바뀐다고해서 리렌더링이 일어나지 않는다.
+  ==>해결책) 리렌더링이 일어나게 하려면 useState(react Hook)를 사용해야한다.
+  ![image](https://github.com/sjeroh/react_basic/assets/36749506/a49bdb91-7247-4746-992c-8dbef2d42c81)
