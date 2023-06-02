@@ -26,3 +26,11 @@
 # 함수를 밖으로 뺴기
 ![image](https://github.com/sjeroh/react_basic/assets/36749506/bdb5fe13-14c4-411c-a617-6f2609ff1706)
 
+  
+# 클릭하면 함수실행(이벤트 핸들러 event handler)
+  ![image](https://github.com/sjeroh/react_basic/assets/36749506/25494b09-ee2a-40dc-94c5-08e442583f41)
+==> 화살표 함수로 바뀜
+  
+# 함수 밖으로 빼기
+![image](https://github.com/sjeroh/react_basic/assets/36749506/6527685c-b47e-4b70-bd97-56efdce2153f)
+![image](https://github.com/sjeroh/react_basic/assets/36749506/a5687587-d9f9-4233-95b2-1dcf057e70bb)
