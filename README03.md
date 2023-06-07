@@ -4,3 +4,9 @@
 # form 에서는 onClick대신 onSubmit 이벤트를 사용한다.
 ![image](https://github.com/sjeroh/react_basic/assets/36749506/b4a155da-6570-45b8-b692-05de985b63da)
 
+![image](https://github.com/sjeroh/react_basic/assets/36749506/b61188bc-7c67-463b-aae1-53b36016ba57)
+
+![image](https://github.com/sjeroh/react_basic/assets/36749506/b8d3c3bf-3909-4a14-8248-46b8c9b00325)
+
+
+
