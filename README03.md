@@ -8,5 +8,7 @@
 
 ![image](https://github.com/sjeroh/react_basic/assets/36749506/b8d3c3bf-3909-4a14-8248-46b8c9b00325)
 
+![image](https://github.com/sjeroh/react_basic/assets/36749506/f4e61038-dfd5-4901-9bf2-49078d262b2b)
 
 
+![image](https://github.com/sjeroh/react_basic/assets/36749506/780b4cd2-5127-4a94-9fa8-fa0630fc30e5)
