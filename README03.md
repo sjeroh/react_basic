@@ -12,3 +12,8 @@
 
 
 ![image](https://github.com/sjeroh/react_basic/assets/36749506/780b4cd2-5127-4a94-9fa8-fa0630fc30e5)
+
+
+# useEffect
+
+![image](https://github.com/sjeroh/react_basic/assets/36749506/ec787705-8a81-4e1b-9ffe-c8dab64aca24)
