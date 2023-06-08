@@ -17,3 +17,6 @@
 # useEffect
 
 ![image](https://github.com/sjeroh/react_basic/assets/36749506/ec787705-8a81-4e1b-9ffe-c8dab64aca24)
+
+![image](https://github.com/sjeroh/react_basic/assets/36749506/37d6f9d6-c474-4ea4-8785-13e77dbb6fa1)
+
