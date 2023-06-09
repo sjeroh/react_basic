@@ -28,3 +28,6 @@
 --------------------------
 # 자식요소에 값 전달
 ![image](https://github.com/sjeroh/react_basic/assets/36749506/2f8695d5-e363-4fa8-aa13-aefafb3873d9)
+
+![image](https://github.com/sjeroh/react_basic/assets/36749506/f08d9105-23de-48d1-9596-321f432ceef8)
+- 컴포넌트 폴더를 만들고 대문자로 js 파일들을 만들어준다. -> 
