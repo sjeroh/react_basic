@@ -24,3 +24,7 @@
 
 ![image](https://github.com/sjeroh/react_basic/assets/36749506/b356a01d-94ac-4639-a3db-542ca7f8cd2f)
 
+
+--------------------------
+# 자식요소에 값 전달
+![image](https://github.com/sjeroh/react_basic/assets/36749506/2f8695d5-e363-4fa8-aa13-aefafb3873d9)
