@@ -33,4 +33,10 @@ https://www.npmjs.com/package/json-server
 ![image](https://github.com/sjeroh/react_basic/assets/36749506/13085d7b-2a05-41ae-adce-7170878edc28)
 ## app.js에 import 해주기.
 
+##   const onSubmit = () => {
+    axios.post("http://localhost:3004/posts", {
+      title: title,
+      body: body,
+    });
+  };
 # 
