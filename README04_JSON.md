@@ -19,3 +19,18 @@ https://www.npmjs.com/package/json-server
 # 혹시 실행이 안된다면 아래를 적용한다.
 
         npx json-server --watch db.json --port 3004
+
+
+
+# 서버와 통신하기.
+![image](https://github.com/sjeroh/react_basic/assets/36749506/9ea1c37b-50a4-4270-bd31-db5a33b25960)
+
+        npm i axios
+        
+![image](https://github.com/sjeroh/react_basic/assets/36749506/34df04f3-80cb-4ed6-8f2c-dbbe8f179be5)
+## 역할을 하고 있는 터미널에는 하면 안되고 새로 추가해야한다.
+
+![image](https://github.com/sjeroh/react_basic/assets/36749506/13085d7b-2a05-41ae-adce-7170878edc28)
+## app.js에 import 해주기.
+
+# 
