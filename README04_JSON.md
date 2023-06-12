@@ -15,3 +15,7 @@ https://www.npmjs.com/package/json-server
 # 그래서 포트를 변경해줘야 한다.
 
         json-server --watch db.json --port 3004
+       
+# 혹시 실행이 안된다면 아래를 적용한다.
+
+        npx json-server --watch db.json --port 3004
