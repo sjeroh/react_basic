@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "title": "apg",
+      "body": "ager1243123",
+      "id": 2
+    },
+    {
+      "title": "apg",
+      "body": "ager1243123",
+      "id": 3
+    },
+    {
+      "title": "제목3",
+      "body": "제목241",
+      "id": 4
+    },
+    {
+      "title": "제목3",
+      "body": "제목241",
+      "id": 5
+    }
+  ]
+}

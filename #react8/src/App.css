@@ -1,0 +1,12 @@
+.menu ul {
+  display: flex;
+  gap: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #222;
+}
+li {
+  list-style: none;
+}
