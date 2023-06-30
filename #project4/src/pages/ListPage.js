@@ -2,15 +2,18 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import Card from "../components/Card";
 import { Link, useNavigate } from "react-router-dom";
+import LoadingSpinner from "../components/LoadingSpinner";
 
 const ListPage = () => {
   const navi = useNavigate();
   const [posts, setPosts] = useState([]);
+  const [loading, setLoading] = useState(true);
   // 배열로 가지고오려고 [] 넣기
   const getPost = () => {
     axios.get("http://localhost:3009/posts").then((res) => {
       console.log(res.data);
       setPosts(res.data);
+      setLoading(false);
     });
   };
   useEffect(() => {
@@ -26,6 +29,39 @@ const ListPage = () => {
       });
     });
   };
+
+  const renderBlogList = () => {
+    if (loading) {
+      return <LoadingSpinner />;
+    }
+
+    if (posts.length === 0) {
+      return <div>blog post가 발견되지 않았습니다.</div>;
+    }
+    return posts.map((ps) => {
+      return (
+        <Card
+          key={ps.id}
+          onClick={() => {
+            navi(`/blogs/${ps.id}`);
+          }}
+        >
+          <div>
+            {ps.title} : {ps.body}
+          </div>
+          <button
+            className="btn btn-danger"
+            onClick={(e) => {
+              deleteBlog(e, ps.id);
+            }}
+          >
+            delete
+          </button>
+        </Card>
+      );
+    });
+  };
+
   return (
     <div>
       <div className="d-flex justify-content-between align-items-center">
@@ -35,27 +71,7 @@ const ListPage = () => {
         </Link>
       </div>
 
-      {posts.map((ps) => {
-        return (
-          <Card
-            key={ps.id}
-            onClick={() => {
-              navi("/blogs/edit");
-            }}
-          >
-            <div>
-              {ps.title} : {ps.body}
-            </div>
-            <button
-              onClick={(e) => {
-                deleteBlog(e, ps.id);
-              }}
-            >
-              button
-            </button>
-          </Card>
-        );
-      })}
+      {renderBlogList()}
     </div>
   );
 };
